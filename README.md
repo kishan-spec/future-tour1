@@ -17,39 +17,38 @@ Embark on a journey to discover the breathtaking beauty of our planet as you exp
 ## Features
 
 1. **Static Content Display:**
-   - The webpage primarily displays static content, offering a set of curated images and engaging stories to captivate visitors.
+- The webpage primarily displays static content, offering a set of curated images and engaging stories to captivate visitors.
 
 2. **Navigation Menu:**
-   - Users can navigate through different sections of the webpage using a navigation menu, allowing easy access to various parts of the content.
+- Users can navigate through different sections of the webpage using a navigation menu, allowing easy access to various parts of the content.
 
 3. **Multilingual Support:**
-   - The webpage incorporates a language translation feature, enabling users to select and view the content in different languages. This enhances accessibility for a diverse audience.
+- The webpage incorporates a language translation feature, enabling users to select and view the content in different languages. This enhances accessibility for a diverse audience.
 
 4. **Responsive Design:**
-   - The webpage is designed to be responsive, ensuring an optimal viewing experience across various devices, such as desktops, tablets, and smartphones.
+- The webpage is designed to be responsive, ensuring an optimal viewing experience across various devices, such as desktops, tablets, and smartphones.
 
 5. **Technologies Used:**
-   - The project is built using HTML, CSS, and JavaScript, showcasing a blend of front-end technologies to create an aesthetically pleasing and interactive user interface.
+- The project is built using HTML, CSS, and JavaScript, showcasing a blend of front-end technologies to create an aesthetically pleasing and interactive user interface.
 
 6. **Dynamic Elements (JavaScript):**
-   - Although static, JavaScript may be used for dynamic elements such as image sliders, lightboxes, or other subtle interactive features to enhance user engagement.
+- Although static, JavaScript may be used for dynamic elements such as image sliders, lightboxes, or other subtle interactive features to enhance user engagement.
 
 7. **Contact Information:**
-# Technologies Used
-# Technologies Used
+
 
 # Technologies Used
 
 The website is constructed utilizing the following technologies:
 
 1. **HTML:**
-   - HTML (HyperText Markup Language) is used for structuring and presenting content on the web. It defines the basic structure of a webpage.
+- HTML (HyperText Markup Language) is used for structuring and presenting content on the web. It defines the basic structure of a webpage.
 
 2. **CSS:**
-   - CSS (Cascading Style Sheets) is employed to style the HTML elements, enhancing the visual presentation of the website. It governs the layout, colors, and overall aesthetic.
+- CSS (Cascading Style Sheets) is employed to style the HTML elements, enhancing the visual presentation of the website. It governs the layout, colors, and overall aesthetic.
 
 3. **JavaScript:**
-   - JavaScript is utilized to add interactivity and dynamic behavior to the website. It enhances the user experience by introducing features such as image sliders, language translation, or other interactive elements.
+- JavaScript is utilized to add interactivity and dynamic behavior to the website. It enhances the user experience by introducing features such as image sliders, language translation, or other interactive elements.
 
 
   <a href="https://kishan-spec.github.io/future-tour1/"><strong>➥ Live Demo</strong></a>
