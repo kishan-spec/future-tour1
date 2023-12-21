@@ -1,12 +1,6 @@
 <<<<<<< HEAD
 <div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/tourly)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/tourly?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/tourly?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/FYFmQEpZywc?style=social)](https://youtu.be/FYFmQEpZywc)
-
+ 
   <br />
   <br />
   
@@ -39,18 +33,14 @@ To run **Tourly** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/tourly.git
+sudo git clone https://kishan-spec.github.io/future-tour1/
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/tourly.git
+git clone https:https://kishan-spec.github.io/future-tour1/
 ```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
 
 ### License
 
