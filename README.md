@@ -36,6 +36,9 @@ Embark on a journey to discover the breathtaking beauty of our planet as you exp
 
 7. **Contact Information:**
 # Technologies Used
+# Technologies Used
+
+# Technologies Used
 
 The website is constructed utilizing the following technologies:
 
@@ -47,6 +50,7 @@ The website is constructed utilizing the following technologies:
 
 3. **JavaScript:**
    - JavaScript is utilized to add interactivity and dynamic behavior to the website. It enhances the user experience by introducing features such as image sliders, language translation, or other interactive elements.
+
 
   <a href="https://kishan-spec.github.io/future-tour1/"><strong>➥ Live Demo</strong></a>
 
