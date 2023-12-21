@@ -29,15 +29,34 @@ JavaScript
 ### Demo Screeshots
 this is our main page where user can navigate to any section of the web page.
 ![Tourly Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+<br />
 ![Tourly Desktop Demo](./readme-images/pic2.png "Desktop Demo")
+<br />
+
+Towards the bottom of the page, you'll find a language selection feature that allows you to translate our webpage into your preferred language. Explore the content in a language that suits you best and enhances your browsing experience.
+<br />
+![Tourly Desktop Demo](./readme-images/lang1.png "Desktop Demo")
+<br />
+![Tourly Desktop Demo](./readme-images/lang2.png "Desktop Demo")
+<br />
+here is the kannada version of the web page
+![Tourly Desktop Demo](./readme-images/kannada.png "Desktop Demo")
+
+<br />
+here is the jananese version of the web page
+![Tourly Desktop Demo](./readme-images/japanese.png "Desktop Demo")
+<br />
 
 
 
-#Microsoft Visual Studio Code
+### Microsoft Visual Studio Code
 Used Microsoft Visual Studio Code to develop the application website using HTML, CSS and JavaScript.
 ![Tourly Desktop Demo](./readme-images/vs-code1.png "Desktop Demo")
+<br />
 ![Tourly Desktop Demo](./readme-images/vs-code2.png "Desktop Demo")
+<br />
 ![Tourly Desktop Demo](./readme-images/vs-code3.png "Desktop Demo")
+<br />
 
 ### Prerequisites
 
