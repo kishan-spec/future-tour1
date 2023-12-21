@@ -34,7 +34,7 @@ The project is built using HTML, CSS, and JavaScript, showcasing a blend of fron
 6. **Dynamic Elements (JavaScript):**
 Although static, JavaScript may be used for dynamic elements such as image sliders, lightboxes, or other subtle interactive features to enhance user engagement.
 
-7. **Contact Information:**
+
 
 # Technologies Used
 
