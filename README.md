@@ -10,14 +10,32 @@
 
   Welcome to TOURLY – Your Window to the World!
 
-Explore the beauty of our planet through our curated collection of stunning images and captivating stories. Our static webpage is designed to showcase the allure of various destinations, giving you a sneak peek into the wonders that await.
+
+Embark on a journey to discover the breathtaking beauty of our planet as you explore our carefully curated collection of stunning images and captivating stories. Our static webpage is meticulously designed to showcase the alluring charm of diverse destinations, providing you with a captivating sneak peek into the wonders that await your exploration.
 <h1>Built With  </h1>
-This website is build using the following Technologies: -
+## features
+Static Content Display:
+
+The webpage primarily displays static content, offering a set of curated images and engaging stories to captivate visitors.
+Navigation Menu:
+
+Users can navigate through different sections of the webpage using a navigation menu, allowing easy access to various parts of the content.
+Multilingual Support:
+
+The webpage incorporates a language translation feature, enabling users to select and view the content in different languages. This enhances accessibility for a diverse audience.
+Responsive Design:
+
+The webpage is designed to be responsive, ensuring an optimal viewing experience across various devices, such as desktops, tablets, and smartphones.
+Technologies Used:
+
+The project is built using HTML, CSS, and JavaScript, showcasing a blend of front-end technologies to create an aesthetically pleasing and interactive user interface.
+Dynamic Elements (JavaScript):
+
+Although static, JavaScript may be used for dynamic elements such as image sliders, lightboxes, or other subtle interactive features to enhance user engagement.
+The website is constructed utilizing the following technologies:
 
 HTML
-
 CSS
-
 JavaScript
 
   <a href="https://kishan-spec.github.io/future-tour1/"><strong>➥ Live Demo</strong></a>
@@ -27,7 +45,8 @@ JavaScript
 <br />
 
 ## Demo Screeshots
-this is our main page where user can navigate to any section of the web page.
+
+This serves as our main page, offering users the ability to navigate seamlessly to any section of the website.
 ![Tourly Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 <br />
 
@@ -64,21 +83,6 @@ Used Microsoft Visual Studio Code to develop the application website using HTML,
 ![Tourly Desktop Demo](./readme-images/vs-code3.png "Desktop Demo")
 <br />
 
-### Run Locally
-
-To run **Tourly** locally, run this command on your git bash:
-
-Linux and macOS:
-
-```bash
-sudo git clone https://kishan-spec.github.io/future-tour1/
-```
-
-Windows:
-
-```bash
-git clone https:https://kishan-spec.github.io/future-tour1/
-```
 
 [Visit our website](https://kishan-spec.github.io/future-tour1/)
 
