@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <div align="center">
  
   <br />
@@ -26,7 +26,7 @@ JavaScript
 
 <br />
 
-### Demo Screeshots
+## Demo Screeshots
 this is our main page where user can navigate to any section of the web page.
 ![Tourly Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 <br />
@@ -55,7 +55,7 @@ here is the jananese version of the web page
 
 
 
-### Microsoft Visual Studio Code
+## Microsoft Visual Studio Code
 Used Microsoft Visual Studio Code to develop the application website using HTML, CSS and JavaScript.
 ![Tourly Desktop Demo](./readme-images/vs-code1.png "Desktop Demo")
 <br />
@@ -63,12 +63,6 @@ Used Microsoft Visual Studio Code to develop the application website using HTML,
 <br />
 ![Tourly Desktop Demo](./readme-images/vs-code3.png "Desktop Demo")
 <br />
-
-### Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
 ### Run Locally
 
@@ -85,5 +79,7 @@ Windows:
 ```bash
 git clone https:https://kishan-spec.github.io/future-tour1/
 ```
+
+[Visit our website](https://kishan-spec.github.io/future-tour1/)
 
 
