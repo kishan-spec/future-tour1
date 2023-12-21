@@ -19,6 +19,7 @@
 ### Demo Screeshots
 
 ![Tourly Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Tourly Desktop Demo](./readme-images/pic2.png "Desktop Demo")
 
 ### Prerequisites
 
