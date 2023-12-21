@@ -8,7 +8,17 @@
 
   <h2 align="center">Tourly - Travel website</h2>
 
-  Tourly is fully responsive travel website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+  Welcome to TOURLY – Your Window to the World!
+
+Explore the beauty of our planet through our curated collection of stunning images and captivating stories. Our static webpage is designed to showcase the allure of various destinations, giving you a sneak peek into the wonders that await.
+<h1>Built With  </h1>
+This website is build using the following Technologies: -
+
+HTML
+
+CSS
+
+JavaScript
 
   <a href="https://kishan-spec.github.io/future-tour1/"><strong>➥ Live Demo</strong></a>
 
@@ -17,9 +27,17 @@
 <br />
 
 ### Demo Screeshots
-
+this is our main page where user can navigate to any section of the web page.
 ![Tourly Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 ![Tourly Desktop Demo](./readme-images/pic2.png "Desktop Demo")
+
+
+
+
+Used Microsoft Visual Studio Code to develop the application website using HTML, CSS and JavaScript.
+![Tourly Desktop Demo](./readme-images/vs-code1.png "Desktop Demo")
+![Tourly Desktop Demo](./readme-images/vs-code2.png "Desktop Demo")
+![Tourly Desktop Demo](./readme-images/vs-code3.png "Desktop Demo")
 
 ### Prerequisites
 
