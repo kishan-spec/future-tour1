@@ -45,6 +45,7 @@ here is the kannada version of the web page
 <br />
 here is the jananese version of the web page
 ![Tourly Desktop Demo](./readme-images/japanese.png "Desktop Demo")
+
 <br />
 
 
